@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo": "air force one",
+    "descripcion": "Teléfono inteligente con pantalla AMOLED, 128GB de almacenamiento, 6GB RAM y cámara triple de 64MP.",
+    "urlImagen": "https://i.imgur.com/QwhZRyL.png",
+    "mostrarTodo": false
+  },
+  {
+    "id": 2,
+    "titulo": "Laptop HP Pavilion",
+    "descripcion": "Computadora portátil con procesador Intel i7, 16GB RAM, 512GB SSD y pantalla Full HD de 15.6 pulgadas.",
+    "urlImagen": "https://i.imgur.com/5Aqgz7o.png",
+    "mostrarTodo": false
+  },
+  {
+    "id": 3,
+    "titulo": "Auriculares Inalámbricos",
+    "descripcion": "Auriculares Bluetooth con cancelación de ruido, batería de 30 horas y estuche de carga rápida.",
+    "urlImagen": "https://i.imgur.com/dzV7xZ0.png",
+    "mostrarTodo": false
+  }
+]

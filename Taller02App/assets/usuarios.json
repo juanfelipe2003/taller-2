@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Felipe Preciado",
+    "usuario": "felipe",
+    "clave": "12345",
+    "avatar": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "nombre": "María López",
+    "usuario": "maria",
+    "clave": "abcd",
+    "avatar": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos Gómez",
+    "usuario": "carlos",
+    "clave": "qwerty",
+    "avatar": "https://i.pravatar.cc/150?img=3"
+  }
+]

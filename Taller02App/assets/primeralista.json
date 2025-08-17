@@ -1,0 +1,88 @@
+{
+  "datos": [
+    {
+      "id": "1",
+      "titulo": "Tenis Nike",
+      "descripcion": "Tenis deportivos de color blanco",
+      "mostrarTodo": false,
+      "precio": "79.99"
+    },
+    {
+      "id": "2",
+      "titulo": "Camiseta Adidas",
+      "descripcion": "Camiseta negra con logo clásico",
+      "mostrarTodo": false,
+      "precio": "29.99"
+    },
+    {
+      "id": "3",
+      "titulo": "Gorra Puma",
+      "descripcion": "Gorra roja ajustable",
+      "mostrarTodo": false,
+      "precio": "19.99"
+    },
+    {
+      "id": "4",
+      "titulo": "Chaqueta Reebok",
+      "descripcion": "Chaqueta ligera para correr",
+      "mostrarTodo": false,
+      "precio": "59.99"
+    },
+    {
+      "id": "5",
+      "titulo": "Botas Under Armour",
+      "descripcion": "Botas resistentes para senderismo",
+      "mostrarTodo": false,
+      "precio": "89.99"
+    },
+    {
+      "id": "6",
+      "titulo": "Mochila The North Face",
+      "descripcion": "Mochila de senderismo con múltiples compartimentos",
+      "mostrarTodo": false,
+      "precio": "69.99"
+    },
+    {
+      "id": "7",
+      "titulo": "Reloj Garmin",
+      "descripcion": "Reloj deportivo con GPS integrado",
+      "mostrarTodo": false,
+      "precio": "199.99"
+    },
+    {
+      "id": "8",
+      "titulo": "Auriculares Bose",
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido",
+      "mostrarTodo": false,
+      "precio": "149.99"
+    },
+    {
+      "id": "9",
+      "titulo": "Gafas Oakley",
+      "descripcion": "Gafas de sol polarizadas para deportes al aire libre",
+      "mostrarTodo": false,
+      "precio": "99.99"
+    },
+    {
+      "id": "10",
+      "titulo": "Pantalones Levi's",
+      "descripcion": "Pantalones vaqueros clásicos de corte recto",
+      "mostrarTodo": false,
+      "precio": "49.99"
+    },
+    {
+      "id": "11",
+      "titulo": "Sudadera H&M",
+      "descripcion": "Sudadera cómoda con capucha",
+      "mostrarTodo": false,
+      "precio": "39.99"
+    },
+    {
+      "id": "12",
+      "titulo": "Bufanda Zara",
+      "descripcion": "Bufanda de lana suave y cálida",
+      "mostrarTodo": false,
+      "precio": "24.99"
+    }
+  ]
+}
